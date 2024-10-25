@@ -1,0 +1,6 @@
+F:\C#\Console Based Program\Explicit_Conversion\Explicit_Conversion\bin\Debug\Explicit_Conversion.exe.config
+F:\C#\Console Based Program\Explicit_Conversion\Explicit_Conversion\bin\Debug\Explicit_Conversion.exe
+F:\C#\Console Based Program\Explicit_Conversion\Explicit_Conversion\bin\Debug\Explicit_Conversion.pdb
+F:\C#\Console Based Program\Explicit_Conversion\Explicit_Conversion\obj\Debug\Explicit_Conversion.csproj.CoreCompileInputs.cache
+F:\C#\Console Based Program\Explicit_Conversion\Explicit_Conversion\obj\Debug\Explicit_Conversion.exe
+F:\C#\Console Based Program\Explicit_Conversion\Explicit_Conversion\obj\Debug\Explicit_Conversion.pdb
