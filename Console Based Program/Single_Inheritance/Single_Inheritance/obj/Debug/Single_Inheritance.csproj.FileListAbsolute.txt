@@ -1,0 +1,6 @@
+F:\C#\Single_Inheritance\Single_Inheritance\bin\Debug\Single_Inheritance.exe.config
+F:\C#\Single_Inheritance\Single_Inheritance\bin\Debug\Single_Inheritance.exe
+F:\C#\Single_Inheritance\Single_Inheritance\bin\Debug\Single_Inheritance.pdb
+F:\C#\Single_Inheritance\Single_Inheritance\obj\Debug\Single_Inheritance.csproj.CoreCompileInputs.cache
+F:\C#\Single_Inheritance\Single_Inheritance\obj\Debug\Single_Inheritance.exe
+F:\C#\Single_Inheritance\Single_Inheritance\obj\Debug\Single_Inheritance.pdb
