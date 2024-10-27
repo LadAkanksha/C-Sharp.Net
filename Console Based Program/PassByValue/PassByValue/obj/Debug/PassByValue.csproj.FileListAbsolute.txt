@@ -1,0 +1,7 @@
+F:\C#\PassByValue\PassByValue\bin\Debug\PassByValue.exe.config
+F:\C#\PassByValue\PassByValue\bin\Debug\PassByValue.exe
+F:\C#\PassByValue\PassByValue\bin\Debug\PassByValue.pdb
+F:\C#\PassByValue\PassByValue\obj\Debug\PassByValue.csproj.AssemblyReference.cache
+F:\C#\PassByValue\PassByValue\obj\Debug\PassByValue.csproj.CoreCompileInputs.cache
+F:\C#\PassByValue\PassByValue\obj\Debug\PassByValue.exe
+F:\C#\PassByValue\PassByValue\obj\Debug\PassByValue.pdb
