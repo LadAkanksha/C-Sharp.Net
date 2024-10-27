@@ -1,0 +1,6 @@
+F:\C#\PassByOut\PassByOut\bin\Debug\PassByOut.exe.config
+F:\C#\PassByOut\PassByOut\bin\Debug\PassByOut.exe
+F:\C#\PassByOut\PassByOut\bin\Debug\PassByOut.pdb
+F:\C#\PassByOut\PassByOut\obj\Debug\PassByOut.csproj.CoreCompileInputs.cache
+F:\C#\PassByOut\PassByOut\obj\Debug\PassByOut.exe
+F:\C#\PassByOut\PassByOut\obj\Debug\PassByOut.pdb
