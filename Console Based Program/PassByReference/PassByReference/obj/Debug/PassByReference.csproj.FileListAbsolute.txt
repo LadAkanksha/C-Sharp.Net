@@ -1,0 +1,6 @@
+F:\C#\PassByReference\PassByReference\bin\Debug\PassByReference.exe.config
+F:\C#\PassByReference\PassByReference\bin\Debug\PassByReference.exe
+F:\C#\PassByReference\PassByReference\bin\Debug\PassByReference.pdb
+F:\C#\PassByReference\PassByReference\obj\Debug\PassByReference.csproj.CoreCompileInputs.cache
+F:\C#\PassByReference\PassByReference\obj\Debug\PassByReference.exe
+F:\C#\PassByReference\PassByReference\obj\Debug\PassByReference.pdb
