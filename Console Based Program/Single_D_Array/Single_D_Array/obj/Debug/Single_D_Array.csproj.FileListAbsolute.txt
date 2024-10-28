@@ -1,0 +1,7 @@
+F:\C# Assignment\Single_D_Array\Single_D_Array\bin\Debug\Single_D_Array.exe.config
+F:\C# Assignment\Single_D_Array\Single_D_Array\bin\Debug\Single_D_Array.exe
+F:\C# Assignment\Single_D_Array\Single_D_Array\bin\Debug\Single_D_Array.pdb
+F:\C# Assignment\Single_D_Array\Single_D_Array\obj\Debug\Single_D_Array.csproj.AssemblyReference.cache
+F:\C# Assignment\Single_D_Array\Single_D_Array\obj\Debug\Single_D_Array.csproj.CoreCompileInputs.cache
+F:\C# Assignment\Single_D_Array\Single_D_Array\obj\Debug\Single_D_Array.exe
+F:\C# Assignment\Single_D_Array\Single_D_Array\obj\Debug\Single_D_Array.pdb
