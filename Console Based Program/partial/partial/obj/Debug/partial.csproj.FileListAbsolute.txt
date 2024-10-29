@@ -1,0 +1,7 @@
+F:\C#\partial\partial\bin\Debug\partial.exe.config
+F:\C#\partial\partial\bin\Debug\partial.exe
+F:\C#\partial\partial\bin\Debug\partial.pdb
+F:\C#\partial\partial\obj\Debug\partial.csproj.AssemblyReference.cache
+F:\C#\partial\partial\obj\Debug\partial.csproj.CoreCompileInputs.cache
+F:\C#\partial\partial\obj\Debug\partial.exe
+F:\C#\partial\partial\obj\Debug\partial.pdb
